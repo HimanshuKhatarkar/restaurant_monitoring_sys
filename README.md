@@ -80,6 +80,7 @@ Caching
 
 
 -> Backend server takes care of
+
        - User DATA management
        - Data storage
        - CSV -> Database
